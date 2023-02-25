@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Ou</h1>
-<h3 align="center">A passionate, self-motivated fullstack developer and a drive for continuous learning.I'm eager to continue my journey in software development and am actively seeking opportunities to join a dynamic and innovative team. With my strong development skills and keen eye for detail, I'm confident I can make an impactful contribution to any software engineering team.</h3>
+<h3 align="center">A passionate, self-motivated fullstack developer and a drive for continuous learning. I'm eager to continue my journey in software development and am actively seeking opportunities to join a dynamic and innovative team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bingdongsanchi&label=Profile%20views&color=0e75b6&style=flat" alt="bingdongsanchi" /> </p>
 
