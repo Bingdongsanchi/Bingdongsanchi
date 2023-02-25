@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/max/1600/0*-u0b7K0Q6zfBcQqT.gif)]
+![MasterHead](https://cdn-images-1.medium.com/max/1600/0*-u0b7K0Q6zfBcQqT.gif)
 <h1 align="center">Hi 👋, I'm Christopher Ou</h1>
 <h3 align="center">A passionate, self-motivated fullstack developer and a drive for continuous learning. I'm eager to continue my journey in software development and am actively seeking opportunities to join a dynamic and innovative team.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
