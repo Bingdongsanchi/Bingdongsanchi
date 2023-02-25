@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Ou</h1>
 <h3 align="center">A passionate, self-motivated fullstack developer and a drive for continuous learning. I'm eager to continue my journey in software development and am actively seeking opportunities to join a dynamic and innovative team.</h3>
-<img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.Urc28sbnORGOW5oyohQ06gHaFj&pid=Api&P=0">
+<img align="right" alt="Coding" width="400" src="[https://tse3.mm.bing.net/th?id=OIP.Urc28sbnORGOW5oyohQ06gHaFj&pid=Api&P=0](https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bingdongsanchi&label=Profile%20views&color=0e75b6&style=flat" alt="bingdongsanchi" /> </p>
 
 - 🔭 I’m currently working on **Codenames**
