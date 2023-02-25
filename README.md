@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Ou</h1>
 <h3 align="center">A passionate, self-motivated fullstack developer</h3>
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bingdongsanchi&label=Profile%20views&color=0e75b6&style=flat" alt="bingdongsanchi" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, Refine**
 
-- 💬 Ask me about **react, MERN**
+- 💬 Ask me about **React, MERN**
 
 - 📫 How to reach me **chrisau418@gmail.com**
 
