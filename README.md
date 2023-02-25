@@ -10,7 +10,7 @@
 
 - 🤝 Capstone Project Presentation [Codenames](https://www.youtube.com/watch?v=nMLCx3XAIkE&list=PLx0iOsdUOUmmlnNx8X695RdoNtroWPiju&index=1)
 
-- 👨‍💻 My coffee roasters [www.superjoycoffeelab.com](www.superjoycoffeelab.com)
+- 👨‍💻 My coffee roasters [www.superjoycoffeelab.com](http://www.superjoycoffeelab.com)
 
 - 💬 Ask me about **React, MERN**
 
