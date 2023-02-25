@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-images-1.medium.com/max/1600/0*-u0b7K0Q6zfBcQqT.gif)
+[![MasterHead](https://cdn-images-1.medium.com/max/1600/0*-u0b7K0Q6zfBcQqT.gif)](https://www.youtube.com/watch?v=nMLCx3XAIkE&list=PLx0iOsdUOUmmlnNx8X695RdoNtroWPiju&index=1)
 <h1 align="center">Hi 👋, I'm Christopher Ou</h1>
 <h3 align="center">A self-motivated full-stack developer and a drive for continuous learning. I'm eager to continue my journey in software development and am actively seeking opportunities to join a dynamic and innovative team.</h3>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, Refine**
 
-- 🤝 Capstone Project Presentation [Codenames](https://www.youtube.com/watch?v=nMLCx3XAIkE&list=PLx0iOsdUOUmmlnNx8X695RdoNtroWPiju&index=1)
+(https://www.youtube.com/watch?v=nMLCx3XAIkE&list=PLx0iOsdUOUmmlnNx8X695RdoNtroWPiju&index=1)
 
 - 👨‍💻 My coffee roasters [www.superjoycoffeelab.com](http://www.superjoycoffeelab.com)
 
