@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/max/1600/0*-u0b7K0Q6zfBcQqT.gif)](https://codenames-0nt7.onrender.com)
+![MasterHead](https://cdn-images-1.medium.com/max/1600/0*-u0b7K0Q6zfBcQqT.gif)
 <h1 align="center">Hi 👋, I'm Christopher Ou</h1>
 <h3 align="center">A passionate fullstack developer and a drive for continuous learning. I'm eager to continue my journey in software development and am actively seeking opportunities to join a dynamic and innovative team.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Typescript, Refine**
 
-- 👨‍💻 Website for my coffee roasters [www.superjoycoffeelab.com](www.superjoycoffeelab.com)
+- 👨‍💻 My coffee roasters [www.superjoycoffeelab.com](www.superjoycoffeelab.com)
 
 - 💬 Ask me about **react, MERN**
 
 - 📫 How to reach me **chrisau418@gmail.com**
 
-- ⚡ Fun fact **I'm a coffee professional and I love serving people**
+- ⚡ Fun fact **I'm 2019 NY state Barista Champion and I love serving people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
