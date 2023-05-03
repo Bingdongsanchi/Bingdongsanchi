@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, MERN**
 
-- 📫 How to reach me **chrisau418@gmail.com**
+- 📫 How to reach me **chrisou.swcoder@gmail.com**
 
 - ⚡ Fun fact **I'm 2019 NY state Barista Champion and I love serving people**
 
