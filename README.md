@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Codenames](https://codenames-0nt7.onrender.com/)
 
-- 🌱 I’m currently learning **Typescript, Refine**
+- 🌱 I’m currently learning **Typescript, Next.JS**
 
 - 👨‍💻 My coffee roasters [www.superjoycoffeelab.com](http://www.superjoycoffeelab.com)
 
